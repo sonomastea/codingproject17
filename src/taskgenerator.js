@@ -1,7 +1,6 @@
 import react  from 'react';
 import tasks from './tasks.js';
 import fancytext from ',/fancytext.js';
-import app from './app.css';
 
 //motivational messages
 if(task.isCompleted){
@@ -15,7 +14,8 @@ f(task.isCompleted){
     //fancy text and button
 
     <div ClassName= 'Taskgenerator'>
-        <Fancytext title ={title} text="Today's Tasks"
+        <Fancytext title ={true} text="Today's Tasks"
+        
     <button onCLick={markascompleted}>Mark task as Completed</button>
     </div>
 
