@@ -1,6 +1,8 @@
 //U05721483
+import React from "react";
 import taskgenerator from "./taskgenerator.js";
 import fancytext from "./fancytext.js";
+import'.app.css'
 
 export default App () => {
   return(
